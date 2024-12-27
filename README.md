@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gayathri
+- 👋 Hi there, I’m Gayathri
 - 👀 I’m interested in data science 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on ...
